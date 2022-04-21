@@ -7,6 +7,7 @@
     "api_key3": "AIzaSyBL2OyZLUmitfIN2_3WSPrDNap9g9u3_P8"
 	},
 	"app": {
+		"lock": true,
 		"status": "1",
 		"more_apps_url": "https://play.google.com/store/apps/developer?id=ReGeneration",
 		"redirect_url": "",
