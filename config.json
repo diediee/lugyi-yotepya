@@ -1,23 +1,23 @@
 {
 	"blog": {
-		"blogger_id": "924129370170403983",
-		"api_key1": "AIzaSyDKIcmbLpLIa5PoHGFGrKy33LcF0gbY_Xk",
-		"api_key": "AIzaSyCrLMZHJOYDiPhGwepCoBBT6vEqfSM4oCM",
-		"api_key2": "AIzaSyBL2OyZLUmitfIN2_3WSPrDNap9g9u3_P8",
-    		"api_key3": "AIzaSyBL2OyZLUmitfIN2_3WSPrDNap9g9u3_P8"
+		"blogger_id": "8905538624192217288",
+		"api_key0": "AIzaSyDx2lsY87nPjTCcGYf9WPVrrzoKMgMazDE",
+		"api_key1": "AIzaSyC3M_4XlKV1wIyM7WvplH8YGmjNP1h0yuU",
+		"api_key2": "AIzaSyAM4lg67CItQ7V8Uf-AnvlqCU5XzbHztyY",
+    		"api_key3": "AIzaSyDhqIxIXW2iSsVW0BK720F_H-cNWmjB2Uw"
 	},
 	"custom": {
 		"imagelink": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sicily_banner_landscape.jpg",
-		"click": "https://wwww.facebsook.com/"
+		"click": "https://t.me/shalyotepya"
 	},
 	"app": {
-		"lock": false,
+		"lock": true,
 		"status": "1",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=We Ae owwn",
+		"more_apps_url": "https://play.google.com/store/apps/details?id=com.lugyi.yotepya",
 		"redirect_url": "",
-		"privacy_policy_url": "hhttps://sites.google.com/view/blog-news-app-privacy-policy",
-		"publisher_info_url": "hhttps://sites.google.com/view/blog-news-app-publisher-info",
-		"terms_conditions_url": "hhttps://sites.google.com/view/blog-news-app-terms-conditions",
+		"privacy_policy_url": "https://sites.google.com/view/blog-news-app-privacy-policy",
+		"publisher_info_url": "https://sites.google.com/view/blog-news-app-publisher-info",
+		"terms_conditions_url": "https://sites.google.com/view/blog-news-app-terms-conditions",
 		"display_page_menu": "true",
 		"display_view_on_site_menu": "false"
 	},
@@ -26,14 +26,14 @@
 		"onesignal_app_id": ""
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "admob",
-		"admob_publisher_id": "pub-9734732209457742",
-		"admob_app_id": "ca-app-pub-9734732209457742~4827686620",
+		"admob_publisher_id": "pub-5957944342903365",
+		"admob_app_id": "ca-app-pub-5957944342903365~7104377473",
 		"admob_banner_unit_id": "0",
-		"admob_interstitial_unit_id": "ca-app-pub-9734732209457742/4230712833",
-		"admob_native_unit_id": "ca-app-pub-9734732209457742/5001852530",
-		"admob_app_open_ad_unit_id": "ca-app-pub-9734732209457742/4969079439",
+		"admob_interstitial_unit_id": "ca-app-pub-5957944342903365/7846274199",
+		"admob_native_unit_id": "ca-app-pub-5957944342903365/7392060195",
+		"admob_app_open_ad_unit_id": "ca-app-pub-5957944342903365/3379032683",
 		"startapp_app_id": 210673973,
 		"unity_game_id": 0,
 		"unity_banner_placement_id": "banner",
