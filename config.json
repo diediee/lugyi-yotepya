@@ -1,6 +1,7 @@
 {
 	"blog": {
 		"blogger_id": "8905538624192217288",
+		"blogger_id1": "1470278311640217579",
 		"api_key": "AIzaSyBk_4m-AhcRxGt_sDwLB8F6YJBYn-mXUKQ",
 		"api_key0": "AIzaSyBk_4m-AhcRxGt_sDwLB8F6YJBYn-mXUKQ",
 		"api_key1": "AIzaSyBMLTd19G4r3Zhh4gMzCKXsbBNhPvkHuUw",
@@ -33,6 +34,7 @@
 	},
 	"app": {
 		"lock": true,
+		"lock1": false,
 		"status": "1",
 		"more_apps_url": "https://play.google.com/store/apps/details?id=com.lugyi.yotepya",
 		"redirect_url": "",
