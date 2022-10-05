@@ -35,9 +35,9 @@
 	"app": {
 		"lock": false,
 		"lock1": false,
-		"status": "1",
+		"status": "0",
 		"more_apps_url": "https://play.google.com/store/apps/details?id=com.lugyi.yotepya",
-		"redirect_url": "",
+		"redirect_url": "https://play.google.com/store/apps/details?id=com.royalcomic.yotepyamm",
 		"privacy_policy_url": "https://sites.google.com/view/blog-news-app-privacy-policy",
 		"publisher_info_url": "https://sites.google.com/view/blog-news-app-publisher-info",
 		"terms_conditions_url": "https://sites.google.com/view/blog-news-app-terms-conditions",
